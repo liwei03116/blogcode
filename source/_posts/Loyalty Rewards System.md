@@ -26,3 +26,5 @@ My working system includes three subsystems or apps: the client portal, merchant
 ## Technical stack
 
 The system backend uses C#, .NET, MS SQL Server, ReactJS, Typescript, MUI UI library, Microservices, Azure DevOps, and serverless architecture.
+
+{% img /images/loyaltynow_show/Capture.PNG 550 "login page" %} {% img /images/loyaltynow_show/Capture1.PNG 550 "client portal" %} {% img /images/loyaltynow_show/Capture2.PNG 550 "merchant portal" %} {% img /images/loyaltynow_show/Capture3.PNG 550 "admin portal" %}
