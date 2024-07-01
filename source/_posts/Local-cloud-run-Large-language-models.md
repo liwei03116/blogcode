@@ -29,13 +29,13 @@ According to implementation tests, there are some differences in performance. Fo
 
 {% img /images/LLM/LLM_gnernal_cpu.png 550 "General Local CPU" %} {% img /images/LLM/LLM_gnernal_gpu.png 550 "General Local GPU" %}
 
-Moreover, for professional questions, such as programming queries, the GPU processes faster compared to the CPU. Specifically, the CPU processes at 8 tokens per second, while the GPU processes at 29 tokens per second.
+Moreover, for professional questions, such as programming queries, the GPU processes faster compared to the CPU. Specifically, the CPU processes at 8.3 tokens per second, while the GPU processes at 29 tokens per second.
 
 {% img /images/LLM/aiprofessional_cpu.png 550 "Local CPU" %} {% img /images/LLM/aiprofessional_gpu.png 550 "Local GPU" %}
 
 ## Cloud LLM System Performance
 
-In cloud LLM systems, there is no difference between processing general and professional questions. Both types of queries show a performance of 1250 tokens per second.
+In cloud LLM systems, there is no difference between processing general and professional questions. Both types of queries show a performance of 1222 tokens per second.
 
 {% img /images/LLM/qiprofessional_cloud.png 550 "Cloud" %}
 
